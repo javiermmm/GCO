@@ -1,0 +1,64 @@
+﻿Compilación iniciada a las 26/05/2014 13:19:37.
+     1>Proyecto "F:\Workspace\Visual Studio\PARTE III\freeglut project 3D\freeglut project 3D\freeglut project 3D.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"F:\Workspace\Visual Studio\PARTE III\freeglut project 3D\freeglut\include\\" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Cilindro.cpp Coche.cpp Copa.cpp Disco.cpp Escena.cpp Esfera.cpp EsferaCopa.cpp MallaRevolucion.cpp Objeto3D.cpp Prisma.cpp Rueda.cpp TAfin.cpp Toro.cpp
+         Toro.cpp
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\constantes.h(8): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\toro.cpp(26): warning C4305: 'inicializando' : truncamiento de 'double' a 'float'
+         TAfin.cpp
+         Rueda.cpp
+         Prisma.cpp
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\constantes.h(8): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+         Objeto3D.cpp
+         MallaRevolucion.cpp
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\constantes.h(8): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+         EsferaCopa.cpp
+         Esfera.cpp
+         Escena.cpp
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(25): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(26): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(27): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(28): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(29): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(30): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(32): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(34): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(35): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\escena.cpp(36): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+         Disco.cpp
+         Copa.cpp
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\constantes.h(8): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\copa.cpp(53): warning C4305: '+=' : truncamiento de 'double' a 'float'
+         Coche.cpp
+     1>f:\workspace\visual studio\parte iii\freeglut project 3d\freeglut project 3d\coche.cpp(24): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+         Cilindro.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Workspace\Visual Studio\PARTE III\freeglut project 3D\Debug\freeglut project 3D.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\Workspace\Visual Studio\PARTE III\freeglut project 3D\freeglut\lib\\" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Workspace\Visual Studio\PARTE III\freeglut project 3D\Debug\freeglut project 3D.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Workspace\Visual Studio\PARTE III\freeglut project 3D\Debug\freeglut project 3D.lib" /MACHINE:X86 Debug\Cara.obj
+         Debug\Cilindro.obj
+         Debug\Color.obj
+         Debug\Cubo.obj
+         Debug\Disco.obj
+         Debug\Escena.obj
+         Debug\Coche.obj
+         Debug\Esfera.obj
+         Debug\EsferaCopa.obj
+         Debug\main.obj
+         Debug\Malla.obj
+         Debug\Copa.obj
+         Debug\MallaRevolucion.obj
+         Debug\Objeto3D.obj
+         Debug\ObjetoCompuesto.obj
+         Debug\ObjetoCuadrico.obj
+         Debug\Prisma.obj
+         Debug\PuntoVector3D.obj
+         Debug\Rueda.obj
+         Debug\TAfin.obj
+         Debug\Toro.obj
+         Debug\VerticeNormal.obj
+         freeglut project 3D.vcxproj -> F:\Workspace\Visual Studio\PARTE III\freeglut project 3D\Debug\freeglut project 3D.exe
+     1>Compilación del proyecto terminada "F:\Workspace\Visual Studio\PARTE III\freeglut project 3D\freeglut project 3D\freeglut project 3D.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.60
